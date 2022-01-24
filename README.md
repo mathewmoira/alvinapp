@@ -12,3 +12,7 @@ A new Flutter project.
 4. Click the "Manage your Budget" Button to use the app.
 
 Enjoy!
+
+![home screen](https://user-images.githubusercontent.com/19832590/150797466-781926a0-e663-485a-ada6-fbae05485a50.png)
+
+![manage budget screen](https://user-images.githubusercontent.com/19832590/150797549-4214d1a8-99ef-4882-acc1-21c3f4d01a9a.png)
